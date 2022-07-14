@@ -149,15 +149,15 @@ h1, h2, h3, h4, h5, h6 {
 }
 #header.header-scrolled {
   top: 0;
-}
+} 
 #header .logo {
-  font-size: 50px;
+  font-size: 20px;
   margin: 0;
   padding: 0;
   line-height: 1;
   font-weight: 700;
   letter-spacing: 0.5px;
-  font-family: "Poppins", sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
 #header .logo a {
   color: #136e10;
